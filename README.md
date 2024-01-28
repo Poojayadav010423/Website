@@ -1,6 +1,6 @@
-Website front-page is created using logo and background with some transition to get an attractive look.
-Website is created using HTML & CSS.
-HTML file must be saved with '.html' extensions. 
-CSS file alse must be saved with '.css' extensions.
-HTML file is created as 'page1.html'.
-CSS file is created as 'style.css'.
+The website's first page is designed with a logo and backdrop, as well as certain transitions, to produce an appealing appearance.
+The website was made using HTML and CSS.
+HTML files must be stored with the '.html' suffix. 
+CSS files must be saved with the '.css' suffix.
+The HTML file is saved as 'page1.html'.
+The CSS file is saved as'style.css'.
